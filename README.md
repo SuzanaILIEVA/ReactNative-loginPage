@@ -4,13 +4,13 @@ This project was built with react-native libraries, styled with nativewind and u
 
 ## libraries
 
-react-navigation/native
-react-navigation/native-stack
-nativewind
-react-native
-react-native-reanimated
-react-native-safe-area-context
-react-native-screens
+- react-navigation/native
+- react-navigation/native-stack
+- nativewind
+- react-native
+- react-native-reanimated
+- react-native-safe-area-context
+- react-native-screens
 
 ## Gif
 
