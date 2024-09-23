@@ -14,4 +14,4 @@ This project was built with react-native libraries, styled with nativewind and u
 
 ## Gif
 
-![](../loginPage/assets/images/login.gif)
+![](assets/images/login.gif)
